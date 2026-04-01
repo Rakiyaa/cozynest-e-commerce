@@ -566,3 +566,81 @@ video {
 .underline {
   text-decoration-line: underline;
 }
+
+/* Custom Colors */
+.bg-papaya_whip {
+  background-color: #fff3dcff;
+}
+
+.bg-licorice {
+  background-color: #281811ff;
+}
+
+.bg-caf_noir {
+  background-color: #4f3120ff;
+}
+
+.bg-butterscotch {
+  background-color: #d89245;
+}
+
+.bg-butterscotch_light {
+  background-color: #dd9d4cff;
+}
+
+.bg-alabaster {
+  background-color: #f2efe3ff;
+}
+
+.bg-eerie_black {
+  background-color: #242424ff;
+}
+
+.bg-amber_alpha {
+  background-color: #fef3c717;
+}
+
+.bg-red {
+  background-color: #ff1b1b;
+}
+
+.text-licorice {
+  color: #281811ff;
+}
+
+.text-caf_noir {
+  color: #4f3120ff;
+}
+
+.text-butterscotch {
+  color: #d89245;
+}
+
+.text-butterscotch_light {
+  color: #dd9d4cff;
+}
+
+.text-jet {
+  color: #333333ff;
+}
+
+.text-alabaster {
+  color: #f2efe3ff;
+}
+
+.text-eerie_black {
+  color: #242424ff;
+}
+
+.text-red {
+  color: #ff1b1b;
+}
+
+/* Font Families */
+.font-primary {
+  font-family: "Cormorant Garamond", serif;
+}
+
+.font-secondary {
+  font-family: "Montserrat", sans-serif;
+}

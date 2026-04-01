@@ -7,7 +7,7 @@
   
   "scripts": {
     "build": "npx tailwindcss -i ./src/style.css -o ./dist/style.css",
-    "watch": "npx tailwindcss -i ./src/style.css -o ./dist/style.css--watch"
+    "watch": "npx tailwindcss -i ./src/style.css -o ./dist/style.css --watch"
   }
 }
  
