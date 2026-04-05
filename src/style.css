@@ -35,5 +35,26 @@ ion-icon {
 
 
 /*----------------*\
-    #HEADER 
+    #HEADER
 \*----------------*/
+
+.header {
+  
+  @apply bg-caf_noir
+  fixed
+  left-0
+  top-0
+  z-30
+  h-30
+  w-full
+  duration-200
+  ease-inExpo
+  
+  /* responsive for lg */
+  lg:bg-transparent;
+}
+ 
+.header.active {
+  @apply shadow-shadowDark
+  animayte-fadeInDown;
+}
